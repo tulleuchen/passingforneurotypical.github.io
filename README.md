@@ -4,6 +4,6 @@ Still working on it, sorry I'm AuDHD maybe?
 
 [YouTube passing_for_neurotypical](https://www.instagram.com/passing_for_neurotypical](https://www.youtube.com/@passing_for_neurotypical)
 
-[TikTok passing_for_neurotypical]([https://www.instagram.com/passing_for_neurotypical](https://www.youtube.com/@passing_for_neurotypical](https://www.tiktok.com/search?q=passing_for_neurotypical&t=1704400769763))
+[TikTok passing_for_neurotypical](https://www.youtube.com/@passing_for_neurotypical](https://www.tiktok.com/search?q=passing_for_neurotypical&t=1704400769763)
 
 
