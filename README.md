@@ -8,15 +8,7 @@ Still working on it, sorry I'm AuDHD maybe?
 
 [TikTok passing_for_neurotypical](https://www.tiktok.com/@passing_for_neurotypical)
 
-Want to collaborate or send me a message outside of social media?
-Email me at: <span id="email-placeholder">Loading email...</span>
-<script>
-    (function() {
-        const username = "yourname"; // Replace with your email username
-        const domain = "example.com"; // Replace with your email domain
-        const email = username + "@" + domain;
-
-        const placeholder = document.getElementById("email-placeholder");
-        placeholder.innerHTML = `<a href="mailto:${email}">${email}</a>`;
-    })();
-</script>
+Want to collaborate or send me a message outside of social media? Email me at: 
+<a href="mailto:&#121;&#111;&#117;&#114;&#110;&#97;&#109;&#101;&#64;&#101;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#99;&#111;&#109;">
+&#121;&#111;&#117;&#114;&#110;&#97;&#109;&#101;&#64;&#101;&#120;&#97;&#109;&#112;&#108;&#101;&#46;&#99;&#111;&#109;
+</a>
