@@ -1,14 +1,29 @@
-Still working on it, sorry I'm AuDHD maybe?
+# LinkTree
+This is a bootstrap one page application devoloped for just sharing social links just replace with your
+details.
 
-[Instagram passing_for_neurotypical](https://www.instagram.com/passing_for_neurotypical)
+To host you can use either<br>
+<b>Github Pages: </b> https://pages.github.com
+<br> or <br>
+<b>Netlify: </b> https://netlify.app
 
-[Threads passing_for_neurotypical](https://www.threads.net/@passing_for_neurotypical)
+# Change Photos
+Line No: 5 This is favicon<br>
+Line No: 48 This will be your photo
 
-[YouTube passing_for_neurotypical](https://www.youtube.com/@passing_for_neurotypical)
+# Social Links
+Line No: 58 to 67 replace # with your desire link
 
-[TikTok passing_for_neurotypical](https://www.tiktok.com/@passing_for_neurotypical)
+# Names
+Replace (Your Name) with Your Name <br>
+Replace (Your City) with Your City <br>
+Replace (Your Country) with Your Country Name<br>
 
-Want to collaborate or send me a message outside of social media? Email me at: 
-<a href="mailto:&#112;&#97;&#115;&#115;&#105;&#110;&#103;&#46;&#102;&#111;&#114;&#46;&#110;&#101;&#117;&#114;&#111;&#116;&#121;&#112;&#105;&#99;&#97;&#108;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
-&#112;&#97;&#115;&#115;&#105;&#110;&#103;&#46;&#102;&#111;&#114;&#46;&#110;&#101;&#117;&#114;&#111;&#116;&#121;&#112;&#105;&#99;&#97;&#108;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
-</a>
+# Gmali
+Line No: 74 replace (Your Mail) with your gmail without brackets 
+
+## Contact Me
+#### 👨‍💻 Irshad Ali<br>
+#### 📝 phonerefer@gmail.com or hello@phonerefer.com<br>
+#### 🌍 https://irshadali.codes
+
